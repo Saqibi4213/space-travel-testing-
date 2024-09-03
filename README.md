@@ -83,5 +83,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please give it a ⭐️! Your support is greatly appreciated.
-
-
